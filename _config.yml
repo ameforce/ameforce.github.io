@@ -1,5 +1,10 @@
 title: jekyll-rtd-theme
 description: Just another documentation theme compatible with GitHub Pages
+url: ameforce.github.io
+baseurl: 
+lang: kr
+direction: auto
+highlighter: rouge
 
 theme: null
 
@@ -29,3 +34,4 @@ exclude:
   - package-lock.json
   - webpack.config.js
   - jekyll-rtd-theme.gemspec
+
